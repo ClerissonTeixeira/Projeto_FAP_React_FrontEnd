@@ -11,3 +11,5 @@ Crie um formulário com campos nome e email e um botão Cadastrar. Ao clicar, en
 Implemente uma função de edição que permita, ao clicar em um botão Editar, preencher os campos com os dados existentes do usuário e realizar a atualização via PUT /usuarios/:id.
 
 Adicione um botão Excluir ao lado de cada usuário, que ao ser clicado, envie uma requisição DELETE /usuarios/:id e atualize a lista em tempo real.
+
+Verificando
