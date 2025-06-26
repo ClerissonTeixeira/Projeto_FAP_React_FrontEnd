@@ -1,0 +1,17 @@
+{
+  "name": "projetofapreact",
+  "version": "1.0.0",
+  "description": "Esta atividade tem como objetivo desenvolver uma aplicação React SPA (Single Page Application) que consuma dados de uma API, simulando uma interface para cadastro, listagem e gerenciamento de usuários.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.10.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
