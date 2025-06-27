@@ -1,9 +1,10 @@
 import React from "react";
 
+
 function Saudacao() {
     return(
         <div>
-            Bem Vindo a Aplicação FrontEnd
+            <h1>Bem Vindo a Aplicação FrontEnd</h1>
         </div>
     )
 }

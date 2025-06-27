@@ -66,7 +66,7 @@ function App() {
 
   return (
     <div>
-      <h1><Saudacao/> 👥</h1>
+      <Saudacao/> 👥
       <h1>"Lista de Usuários"</h1>
       <ul>
         {usuarios.map((usuario) => (
